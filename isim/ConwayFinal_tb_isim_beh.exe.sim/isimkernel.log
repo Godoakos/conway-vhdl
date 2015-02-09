@@ -1,0 +1,28 @@
+Command line:
+   ConwayFinal_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58138
+
+Wed Jan 21 20:24:07 2015
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 369.857 Meg
+
+ Total Signals          : 286
+ Total Nets             : 883
+ Total Signal Drivers   : 178
+ Total Blocks           : 27
+ Total Primitive Blocks : 23
+ Total Processes        : 107
+ Total Traceable Variables  : 169
+ Total Scalar Nets and Variables : 6243
+
+ Total Simulation Time: 175.266 sec
+
+ Current Memory Usage: 461.148 Meg
+
+Wed Jan 21 20:27:34 2015
+

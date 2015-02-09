@@ -1,0 +1,455 @@
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+xst -intstyle ise -ifn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.xst" -ofn "D:/Docs/Xilinx/ConwayFinal/ConwayFinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ConwayFinal.ucf -p xc3s500e-fg320-4 ConwayFinal.ngc ConwayFinal.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ConwayFinal_map.ncd ConwayFinal.ngd ConwayFinal.pcf 
+par -w -intstyle ise -ol high -t 1 ConwayFinal_map.ncd ConwayFinal.ncd ConwayFinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ConwayFinal.twx ConwayFinal.ncd -o ConwayFinal.twr ConwayFinal.pcf -ucf ConwayFinal.ucf 
+bitgen -intstyle ise -f ConwayFinal.ut ConwayFinal.ncd 

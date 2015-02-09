@@ -1,0 +1,4 @@
+vhdl work "D:\Docs\Xilinx\ConwayFinal\shift_register.vhd"
+vhdl work "D:\Docs\Xilinx\ConwayFinal\clkgen.vhd"
+vhdl work "D:\Docs\Xilinx\ConwayFinal\DualPortBRAM.vhd"
+vhdl work "D:\Docs\Xilinx\ConwayFinal\ConwayFinal.vhd"

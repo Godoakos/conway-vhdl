@@ -1,0 +1,8 @@
+AR clkgen behavioral D:/Docs/Xilinx/ConwayFinal/clkgen.vhd sub00/vhpl02 1422009631
+EN dualportbram NULL D:/Docs/Xilinx/ConwayFinal/DualPortBRAM.vhd sub00/vhpl03 1422009632
+AR shift_register behavioral D:/Docs/Xilinx/ConwayFinal/shift_register.vhd sub00/vhpl06 1422009635
+EN conwayfinal NULL D:/Docs/Xilinx/ConwayFinal/ConwayFinal.vhd sub00/vhpl00 1422009636
+AR dualportbram behavioral D:/Docs/Xilinx/ConwayFinal/DualPortBRAM.vhd sub00/vhpl04 1422009633
+AR conwayfinal behavioral D:/Docs/Xilinx/ConwayFinal/ConwayFinal.vhd sub00/vhpl07 1422009637
+EN clkgen NULL D:/Docs/Xilinx/ConwayFinal/clkgen.vhd sub00/vhpl01 1422009630
+EN shift_register NULL D:/Docs/Xilinx/ConwayFinal/shift_register.vhd sub00/vhpl05 1422009634

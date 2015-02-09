@@ -1,0 +1,4 @@
+vhdl work "shift_register.vhd"
+vhdl work "clkgen.vhd"
+vhdl work "DualPortBRAM.vhd"
+vhdl work "ConwayFinal.vhd"

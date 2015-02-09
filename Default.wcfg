@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Docs/Xilinx/ConwayFinal/ConwayFinal_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="conwayfinal_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_textio" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+            <top_module name="vital_primitives" />
+            <top_module name="vital_timing" />
+            <top_module name="vpkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/conwayfinal_tb/uut/clkin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clkin</obj_property>
+      <obj_property name="ObjectShortName">clkin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/dout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/hsync" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hsync</obj_property>
+      <obj_property name="ObjectShortName">hsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/vsync" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">vsync</obj_property>
+      <obj_property name="ObjectShortName">vsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/clkout" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clkout</obj_property>
+      <obj_property name="ObjectShortName">clkout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/clksig" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">clksig[2:0]</obj_property>
+      <obj_property name="ObjectShortName">clksig[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/hcount" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">hcount</obj_property>
+      <obj_property name="ObjectShortName">hcount</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/vcount" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">vcount</obj_property>
+      <obj_property name="ObjectShortName">vcount</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/di" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">di[0:0]</obj_property>
+      <obj_property name="ObjectShortName">di[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/we_fb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">we_fb</obj_property>
+      <obj_property name="ObjectShortName">we_fb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/addrw_fb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrw_fb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrw_fb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/addrr_fb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrr_fb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrr_fb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/do_fb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">do_fb[0:0]</obj_property>
+      <obj_property name="ObjectShortName">do_fb[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/we_sb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">we_sb</obj_property>
+      <obj_property name="ObjectShortName">we_sb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/addrw_sb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrw_sb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrw_sb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/addrr_sb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrr_sb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addrr_sb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/do_sb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">do_sb[0:0]</obj_property>
+      <obj_property name="ObjectShortName">do_sb[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so11" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so11[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so11[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so12[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so12[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so13" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so13[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so13[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so21" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so21[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so21[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so22" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so22[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so22[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so23" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so23[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so23[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so31" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so31[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so31[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so32" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so32[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so32[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/so33" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">so33[0:0]</obj_property>
+      <obj_property name="ObjectShortName">so33[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/i" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">i</obj_property>
+      <obj_property name="ObjectShortName">i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/j" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">j</obj_property>
+      <obj_property name="ObjectShortName">j</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/neigh" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">neigh[3:0]</obj_property>
+      <obj_property name="ObjectShortName">neigh[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/conwayfinal_tb/uut/change" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">change[4:0]</obj_property>
+      <obj_property name="ObjectShortName">change[4:0]</obj_property>
+   </wvobject>
+</wave_config>

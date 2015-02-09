@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Docs\Xilinx\ConwayFinal\ConwayFinal.ncd
+OUTFILE=D:\Docs\Xilinx\ConwayFinal\ConwayFinal.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\Docs\Xilinx\ConwayFinal
+LICENSE=WebPack
+USER_INFO=__0_0_0
